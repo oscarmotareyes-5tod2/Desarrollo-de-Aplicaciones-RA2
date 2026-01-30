@@ -1,5 +1,5 @@
 
-<h1 align="center"><b>Hi , I'm Abdul Khalid </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center"><b>Bienbenidos a mi Portafolio </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <!--  -->A
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Assalamu+O+Alaikum+Warahmatullah..&hearts;++;Self-taught+Front-End+Developer,;Computer+Science+Student,;CTF+Newbie,;Active+Learner/Researcher,;Love+to+learn+new+stuffs..<3"></a>
@@ -11,17 +11,21 @@
 
 
 	
-## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
+ **About me😊:**
 
 <picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
 
 <br>
-
-- A passionate Self-taught Front-end developer
-- Playing CTF's at spare time
-- Currently learning Web Development by Self
-- Personal website [link](https://www.0xabdulkhalid.ml)
-- I’m currently open for an Intern or a new job opportunity, this is [my resume](https://read.cv/0xabdulkhalid)
+!Hola¡ Me llamo Oscar David Mota Reyes, Naci el 1 de agosto del año 2009 en SPM de Republica Dominicana. Desde muy pequeño he sido un chico bastante curioso, lo que me ha llevado a tener mucho conocimiento aunque tambien soy muy vago, me gusta la tecnologia, los animales, los vehiculos y sobre todo la buena comida.
+<br></br>
+<ul>
+	<li>Estudiante apasionado por la informatica.</li>
+	<li>Buen compañero.</li>
+	<li>Gracioso y Carismatico.</li>
+	<li>Personal website https://sites.google.com/d/1CeehMk1x5OMFw671FTjhfjKdHfxeRoWb/p/1-ar77RgiSs85_VPwWodoUOmO35gS4ZNE</li>
+</ul>
+ 
+  
 
 <br><br>
 
