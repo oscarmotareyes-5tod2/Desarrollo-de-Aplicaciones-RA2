@@ -1,1 +1,30 @@
-eefwfwv rve 
+Datos del Estudiante:
+
+-Oscar David Mota Reyes.
+-Nº 13 en el orden de lista.
+-Alumno de 5to D-2 informatica.
+
+
+Descrpcion del programa:
+
+Este programa se encarga de calcular el promedio de estudiante en base 
+a 4 calificaciones y dependiendo de dicho promedio se activaran mas campos.
+
+
+Datos de entrada:
+
+-Las 4 calificaciones.
+
+
+Datos que procesa:
+
+-la suma y division de las notas para sacar el promedio.
+
+
+Datos de salida:
+
+-promedio
+-mensaje
+
+
+Capturas de pantalla
